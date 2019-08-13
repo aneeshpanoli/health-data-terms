@@ -1,0 +1,132 @@
+	
+Performance Measures
+--------------------------------
+https://www.youtube.com/watch?v=wGw6R8AbcuI
+Accuracy 
+Precision
+TPR/Sensitivity/Recall
+F1-score
+SIMD - single instruction multiple data - NumPy - vectorizing the code
+Skewed classes
+True positive
+True negative
+False-positive
+False-negative
+TNR - True negative rate
+FPR - False positive rate
+ANR - 
+AUROC
+AUC for LR 
+AUC for RF
+MDI - Mean decrease impurity
+MDA - Mean decrease accuracy
+Gini impurity 
+lemmetize
+AUC
+T-SNE
+time-based models
+ROC curve
+cluster analysis
+affinity analysis
+feature /variable importance
+correlation matrix
+Apache III score
+PCA
+Decorrelate
+support
+data leakage
+LDA
+K-Fold
+bias-variance trade-off
+upsampling 
+downsampling
+naive-Bayes
+Random Forest
+KNN
+ASCII
+comorbidity
+singular value decomposition
+continuous feature space
+Extended-connectivity Circular Fingerprints (ECFP)
+class imbalance
+rolling window validation
+terraform
+Kuberflow
+attach kubernets pod to jupyter
+survival analysis
+Jaccard index
+generative sequence model
+======================================================================================
+
+Validation
+-----------------
+ Grid CV
+OOB error (Allen Zhang)
+Randomized CV
+Randomized CV
+True positive rate
+elbow method
+silhouette analysis
+true positive
+false positive
+learning curve
+HAAR model
+
+=====================================================
+ML methods
+--------------
+CART
+Random Forest
+SVM
+XGBoost
+logistic lasso
+L1 regularization
+Markov chain
+support vector machine
+Xg boost
+kernel ridge
+gaussian process
+Gaussian mixture model(GMM)
+K-means clustering
+windowing
+time-series clustering
+ARIMA
+2nd-degree polynomial
+Mann-Whitney U-Test
+Auto-Regressive Integrated Moving Average (ARIMA)
+Kruskal-Wallis test
+LDA
+QDA
+rolling metrics
+Persistence model
+posterior density
+AdaBoost
+cascading
+=======================================================================
+
+DBs
+-------------------------------
+UCI machine learning repo
+OpenFDA
+DrugBank
+Scientific Data
+PharmGkb
+RDkit
+SleepHeartHealth
+SOL
+National Sleep Research Resource
+PubChem
+pyspark
+icd-10
+pct
+drugs.com
+SIDER
+HIV-insite
+MIMIC III
+COlorado avalanche information center
+NOAA
+CHHS
+HPSA acumen
+FER dataset - emotions
+which are the critical FDA datasets
+
