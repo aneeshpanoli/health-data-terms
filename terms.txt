@@ -1,4 +1,7 @@
-	
+Common statistics and machine leanring terms
+https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/
+
+
 Performance Measures
 --------------------------------
 https://www.youtube.com/watch?v=wGw6R8AbcuI
